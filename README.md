@@ -200,7 +200,7 @@ Loan-Approval-Analysis/
 
 ## 📬 Contact
 
-**Mahibah Mahmood Baig**
+**Fatimuz Zohra**
 
 GitHub: https://github.com/yourusername
 
